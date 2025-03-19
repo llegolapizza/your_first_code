@@ -7,4 +7,4 @@ int main()
   }
   return 0;
 }
-print ("hello school");
+print ("hello school")
