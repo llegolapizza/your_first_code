@@ -13,4 +13,9 @@ print (hello school)
 int main() {
     std::cout << "Hello School";  // 
     return 0;  // 
+}#include <iostream>  // Include the input-output stream library
+
+int main() {
+    std::cout << "Hello School";  // Print "Hello School" to the console
+    return 0;  // Return 0 to indicate the program executed successfully
 }
